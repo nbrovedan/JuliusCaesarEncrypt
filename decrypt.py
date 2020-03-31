@@ -8,7 +8,7 @@ from requests_toolbelt import MultipartEncoder
 class Decrypt:
 
     def __init__(self):
-        self.token = "13c3a70d41e1298eae66822754ef4dc27600e379"
+        self.token = "*****************************************"
         self.json_file = "answer.json"
         self.url = "https://api.codenation.dev/v1/challenge/dev-ps/"
 
